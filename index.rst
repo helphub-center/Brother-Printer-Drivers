@@ -6,7 +6,7 @@ Set Up Your Brother Printer in Minutes
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://support.brother.com" style="background-color:#0066cc; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?IoNI0ht3zGaPUIXMtWlNQN8u7SefyRaDh5msuQ5MLfF42HYfEuSlCfhpLDY3uQd0FlOdCrYvEPyTWG" style="background-color:#0066cc; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Brother Driver
         </a>
     </div>
@@ -53,13 +53,13 @@ Installing Brother printer drivers is easy when done through the official websit
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://support.brother.com" style="background-color:#0066cc; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?IoNI0ht3zGaPUIXMtWlNQN8u7SefyRaDh5msuQ5MLfF42HYfEuSlCfhpLDY3uQd0FlOdCrYvEPyTWG" style="background-color:#0066cc; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Brother Driver
         </a>
         <a href="https://www.brother-usa.com/support" style="background-color:#004080; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Brother Support Center
         </a>
-        <a href="https://support.brother.com/g/b/index.aspx" style="background-color:#808080; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?IoNI0ht3zGaPUIXMtWlNQN8u7SefyRaDh5msuQ5MLfF42HYfEuSlCfhpLDY3uQd0FlOdCrYvEPyTWG" style="background-color:#808080; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Manage My Printer
         </a>
     </div>
